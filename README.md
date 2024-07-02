@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
-<h3 align="center">A Web Developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+Web+Developer;Turning+ideas+into+digital+reality)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/MehediMubin/portfolio-website)
 - 🌱 I’m currently learning **Next.js**
