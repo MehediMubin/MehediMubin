@@ -18,7 +18,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px;"><img src="images/icons/HTML.png" alt="HTML Logo"></div>
-  <div style="margin: 10px;"><img src="images/icons/CSS.png" alt="CSS Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/css.png" alt="CSS Logo"></div>
   <div style="margin: 10px;"><img src="images/icons/Javascript.34326cf0.svg" alt="JavaScript Logo"></div>
   <div style="margin: 10px;"><img src="images/icons/Ts.7bed7ff0.svg" alt="TypeScript Logo"></div>
   <div style="margin: 10px;"><img src="images/icons/python.9ee999c6.svg" alt="Python Logo"></div>
