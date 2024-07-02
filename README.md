@@ -46,6 +46,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=mehedimubin&show_icons=true&locale=en" alt="mehedimubin" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimubin&" alt="mehedimubin" /></td>
+    <td colspan="2" style="text-align: center;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimubin&" alt="mehedimubin" /></td>
   </tr>
 </table>
