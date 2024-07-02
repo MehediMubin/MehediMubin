@@ -6,7 +6,9 @@
 <h3>
   <ul>
     <li>🔭 I’m currently working on - <a href="https://github.com/MehediMubin/portfolio-website">Portfolio Website</a></li>
-    <li>🌱 I’m currently learning - <strong>Next.js</strong></li>
+    <li>🌱 I’m exploring - Next.js</li>
+    <li>👯 I’m looking - To collaborate on open source projects.</li>
+    <li>⚡ Fun fact - Why do programmers prefer dark mode? Because light attracts bugs!</li>
   </ul>
 </h3>
 
