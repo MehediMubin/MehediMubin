@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=A+Full-Stack+Web+Developer;Turning+ideas+into+digital+reality" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/MehediMubin/portfolio-website)
-- 🌱 I’m currently learning **Next.js**
+-  🔭 I’m currently working on [Portfolio Website](https://github.com/MehediMubin/portfolio-website)
+-  🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,11 +14,38 @@
 <a href="https://www.leetcode.com/binarythinker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="binarythinker" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2>Technologies I am Familiar with</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedimubin&show_icons=true&locale=en&layout=compact" alt="mehedimubin" /></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px;"><img src="images/icons/HTML.png" alt="HTML Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/CSS.png" alt="CSS Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/Javascript.34326cf0.svg" alt="JavaScript Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/Ts.7bed7ff0.svg" alt="TypeScript Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/python.9ee999c6.svg" alt="Python Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/c.png" alt="C Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/cpp.png" alt="C++ Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/react.ec726271.svg" alt="React Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/redux.71ccc46d.svg" alt="Redux Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/tailwind.png" alt="Tailwind Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/Bootsrap.png" alt="Bootstrap Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/firebase.png" alt="Firebase Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/nodejs.26176163.svg" alt="Nodejs Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/express.png" alt="Express Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/mongodb.7d4f7146.svg" alt="MongoDB Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/postgres.d0c62796.svg" alt="Postgres Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/nextjs.f7d35cbb.svg" alt="Next.js Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/prisma.850e9dae.svg" alt="Prisma Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/supabse.6b62032f.svg" alt="Supabase Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/figma.5d7330fe.svg" alt="Figma Logo"></div>
+  <div style="margin: 10px;"><img src="images/icons/vscode.13c00b41.svg" alt="VS Code Logo"></div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedimubin&show_icons=true&locale=en" alt="mehedimubin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimubin&" alt="mehedimubin" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedimubin&show_icons=true&locale=en&layout=compact" alt="mehedimubin" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mehedimubin&show_icons=true&locale=en" alt="mehedimubin" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimubin&" alt="mehedimubin" /></td>
+  </tr>
+</table>
