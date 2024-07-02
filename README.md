@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+Web+Developer;Turning+ideas+into+digital+reality)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=A+Full-Stack+Web+Developer;Turning+ideas+into+digital+reality" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/MehediMubin/portfolio-website)
 - 🌱 I’m currently learning **Next.js**
