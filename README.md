@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 <h3 align="center">A Web Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Express, MongoDB**
+- 🔭 I’m currently working on [Portfolio Website](https://github.com/MehediMubin/portfolio-website)
+- 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
