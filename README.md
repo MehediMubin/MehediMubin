@@ -45,7 +45,6 @@
   <img src="images/icons/nextjs.f7d35cbb.svg" alt="Next.js Logo" width="70">
   <img src="images/icons/prisma.850e9dae.svg" alt="Prisma Logo" width="70">
   <img src="images/icons/supabse.6b62032f.svg" alt="Supabase Logo" width="70">
-  <img src="images/icons/figma.5d7330fe.svg" alt="Figma Logo" width="70">
   <img src="images/icons/vscode.13c00b41.svg" alt="VS Code Logo" width="70">
 </p>
 
