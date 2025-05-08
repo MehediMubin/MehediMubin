@@ -5,9 +5,8 @@
 
 <h3>
   <ul>
-    <li>🔭 I’m currently working on - <a href="https://github.com/MehediMubin/portfolio-website">Portfolio Website</a></li>
-    <li>🌱 I’m exploring - Next.js</li>
-    <li>👯 I’m looking - To collaborate on open source projects.</li>
+    <li>🔭 I’m currently Learning - <a href="https://go.dev/doc/effective_go">Golang</a></li>
+    <li>👯 I’m looking to collaborate on open-source projects.</li>
     <li>⚡ Fun fact - Why do programmers prefer dark mode? Because light attracts bugs!</li>
   </ul>
 </h3>
@@ -18,7 +17,6 @@
 <a href="https://linkedin.com/in/mehedi1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi1998" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/hasanmubin98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanmubin98" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/binary_thinker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="binary_thinker" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/binarythinker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="binarythinker" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/binarythinker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="binarythinker" width="40" /></a>
 </p>
 
