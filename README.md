@@ -60,7 +60,10 @@ My journey is about sharpening my skills, embracing every challenge, and collabo
 
 <p align="center">
 <a href="https://linkedin.com/in/mehedi1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi1998" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/hasanmubin98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanmubin98" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/hasanmubin98" target="_blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X (formerly Twitter)" width="40" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/binary_thinker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="binary_thinker" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/binarythinker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="binarythinker" width="40" /></a>
+
 </p>
